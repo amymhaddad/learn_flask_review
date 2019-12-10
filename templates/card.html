@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Card View </title>
+</head>
+
+
+
+<body>
+    <h1>Card View</h1> 
+    {{ card.question }} <br>
+    {{ card.answer }}
+
+    <p>
+        <button>
+            <a href="{{ url_for('card_view', index=index +1) }}">Next Card</a>
+        </button>
+
+        <button>
+                <a href="{{ url_for('welcome') }}">Home</a>
+        </button>
+    </p>
+</body>
+
+</html>
