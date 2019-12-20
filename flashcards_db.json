@@ -1,18 +1,1 @@
-[
-  {
-    "question": "Hello (formal)",
-    "answer": "Здравствуйте"
-  },
-  {
-    "question": "Goodbye (formal)",
-    "answer": "До свидания"
-  },
-  {
-    "question": "Hello (informal)",
-    "answer": "Привет"
-  },
-  {
-    "question": "Goodbye (informal)",
-    "answer": "Пока"
-  }
-]
+[{"question": "Hello (formal)", "answer": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435"}, {"question": "Goodbye (formal)", "answer": "\u0414\u043e \u0441\u0432\u0438\u0434\u0430\u043d\u0438\u044f"}, {"question": "Hello (informal)", "answer": "\u041f\u0440\u0438\u0432\u0435\u0442"}, {"question": "Goodbye (informal)", "answer": "\u041f\u043e\u043a\u0430"}, {"question": "a", "answer": "s"}, {"question": "aa", "answer": "bb"}, {"question": "TTT", "answer": "BBBB"}, {"question": "tttt", "answer": "gggg"}, {"question": "ttt", "answer": "yyy"}, {"question": "ooo", "answer": "mmm"}, {"question": "r", "answer": "b"}, {"question": "N", "answer": "M"}, {"question": "M", "answer": "MM"}, {"question": "B", "answer": "BB"}, {"question": "Q", "answer": "Q"}, {"question": "WW", "answer": "WW"}, {"question": "yy", "answer": "yy"}, {"question": "RR", "answer": "RR"}, {"question": "TT", "answer": "TT"}, {"question": "TT", "answer": "OO"}, {"question": "QQ", "answer": "QQ"}, {"question": "R", "answer": "R"}, {"question": "Q", "answer": "Q"}, {"question": "R", "answer": "R"}, {"question": "tt", "answer": "tt"}, {"question": "TT", "answer": "TT"}, {"question": "T", "answer": "T"}, {"question": "TT", "answer": "TT"}, {"question": "tt", "answer": "tt"}, {"question": "tt", "answer": "tt"}, {"question": "tt", "answer": "tt"}, {"question": "T", "answer": "T"}, {"question": "T", "answer": "I"}, {"question": "gg", "answer": "gg"}, {"question": "test", "answer": "1"}, {"question": "test ", "answer": "2"}, {"question": "test", "answer": "3"}, "http://ex.com", "http://ex.com", "http://test.com", "http://test.com"]

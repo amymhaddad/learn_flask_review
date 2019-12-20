@@ -1,0 +1,21 @@
+body {
+    font-size: 20px;
+    background-color: ivory;
+    color: black;
+}
+
+.error, .error input {
+    color: red;
+}
+
+tr.error td ul {
+    margin-top: 0;
+}
+
+tr.submit button {
+    margin-top: 20px;
+}
+
+input, button {
+    margin-left: 10px;
+}
