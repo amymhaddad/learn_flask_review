@@ -18,7 +18,7 @@ def load_db():
 
 
 def save_db():
-    with open("flashcards_db.json", 'w') as f:
+    with open("flashcards_db.json", "w") as f:
         return json.dump(db, f)
 
 
